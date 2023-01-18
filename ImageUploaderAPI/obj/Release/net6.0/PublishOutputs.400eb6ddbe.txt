@@ -1,0 +1,12 @@
+F:\SEC_PROJECTS\ImageUploader\image-uploader-api\ImageUploaderAPI\ImageUploaderAPI\obj\Release\net6.0\PubTmp\Out\ImageUploaderAPI.exe
+F:\SEC_PROJECTS\ImageUploader\image-uploader-api\ImageUploaderAPI\ImageUploaderAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+F:\SEC_PROJECTS\ImageUploader\image-uploader-api\ImageUploaderAPI\ImageUploaderAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+F:\SEC_PROJECTS\ImageUploader\image-uploader-api\ImageUploaderAPI\ImageUploaderAPI\obj\Release\net6.0\PubTmp\Out\ImageUploaderAPI.dll
+F:\SEC_PROJECTS\ImageUploader\image-uploader-api\ImageUploaderAPI\ImageUploaderAPI\obj\Release\net6.0\PubTmp\Out\ImageUploaderAPI.deps.json
+F:\SEC_PROJECTS\ImageUploader\image-uploader-api\ImageUploaderAPI\ImageUploaderAPI\obj\Release\net6.0\PubTmp\Out\ImageUploaderAPI.runtimeconfig.json
+F:\SEC_PROJECTS\ImageUploader\image-uploader-api\ImageUploaderAPI\ImageUploaderAPI\obj\Release\net6.0\PubTmp\Out\ImageUploaderAPI.pdb
+F:\SEC_PROJECTS\ImageUploader\image-uploader-api\ImageUploaderAPI\ImageUploaderAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+F:\SEC_PROJECTS\ImageUploader\image-uploader-api\ImageUploaderAPI\ImageUploaderAPI\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+F:\SEC_PROJECTS\ImageUploader\image-uploader-api\ImageUploaderAPI\ImageUploaderAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+F:\SEC_PROJECTS\ImageUploader\image-uploader-api\ImageUploaderAPI\ImageUploaderAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\SEC_PROJECTS\ImageUploader\image-uploader-api\ImageUploaderAPI\ImageUploaderAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
